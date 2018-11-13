@@ -1,5 +1,4 @@
 # Security4SemDemo
-# Security_Project
 ### Oliver Scholz Lønning,
 ### Elias Zinabidine Laghouila, 
 ### Stefan Schou Eliasen 
